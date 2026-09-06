@@ -2,15 +2,15 @@
 
 const pointsPerItem = {
 
-    "Plastic": 2,
+    "Plastic": 10,
 
-    "Paper": 1,
+    "Paper": 5,
 
-    "Can": 2,
+    "Can": 15,
 
-    "E-Waste": 10,
+    "E-Waste": 20,
 
-    "Cardboard": 2
+    "Cardboard": 3
 
 };
 
